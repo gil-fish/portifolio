@@ -1,5 +1,3 @@
-```
-
 # portifolio
 
 Olá, Bem vindo ao meu projeto de portfólio.
@@ -20,5 +18,3 @@ Desenvolvido com os cursos de HTML e CSS da Alura.
 ### Gil Alves
 
 ### Linkedin: https://www.linkedin.com/in/gil-alves-a2447979/
-
-```
